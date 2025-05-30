@@ -1,0 +1,9 @@
+subsidiaryId,location,areaCapacity,status,created_at,rv
+1,Chincha Alta,12,True,2025-05-28 15:32:08.273,b'\x00\x00\x00\x00\x00\x00\xc3e'
+2,Grocio Prado,14,True,2025-05-28 15:32:08.273,b'\x00\x00\x00\x00\x00\x00\xc3f'
+3,Sunampe,11,True,2025-05-28 15:32:08.273,b'\x00\x00\x00\x00\x00\x00\xc3g'
+4,Pisco,13,True,2025-05-28 15:32:08.273,b'\x00\x00\x00\x00\x00\x00\xc3h'
+5,San Andrés,10,True,2025-05-28 15:32:08.273,b'\x00\x00\x00\x00\x00\x00\xc3i'
+6,Paracas,12,True,2025-05-28 15:32:08.273,b'\x00\x00\x00\x00\x00\x00\xc3j'
+7,Ica,15,True,2025-05-28 15:32:08.273,b'\x00\x00\x00\x00\x00\x00\xc3k'
+8,La Tinguiña,10,True,2025-05-28 15:32:08.273,b'\x00\x00\x00\x00\x00\x00\xc3l'

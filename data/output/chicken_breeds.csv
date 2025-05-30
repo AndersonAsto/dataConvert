@@ -1,0 +1,11 @@
+breedId,breed,characteristics,status,created_at,rv
+1,Cobb 500,"Raza de broiler comercial. Rápido crecimiento, excelente conversión alimenticia y alto rendimiento de carne en pechuga.",True,2025-05-28 15:20:29.313,b'\x00\x00\x00\x00\x00\x00\xc3Q'
+2,Ross 308,"Broiler muy usado por su crecimiento uniforme, buena eficiencia alimenticia y resistencia.",True,2025-05-28 15:20:29.313,b'\x00\x00\x00\x00\x00\x00\xc3S'
+3,Hubbard Flex,Raza para producción de carne con buen rendimiento y calidad de canal. Requiere buen manejo ambiental.,True,2025-05-28 15:20:29.313,b'\x00\x00\x00\x00\x00\x00\xc3U'
+4,Hubbard JA57,"Broiler rústico usado en sistemas de producción alternativa o campera. Carne sabrosa, crecimiento moderado.",True,2025-05-28 15:20:29.313,b'\x00\x00\x00\x00\x00\x00\xc3W'
+5,ISA Brown,"Gallina ponedora altamente productiva, resistente y de larga vida útil. Huevos marrones.",True,2025-05-28 15:20:29.313,b'\x00\x00\x00\x00\x00\x00\xc3Y'
+6,Lohmann Brown,"Otra ponedora industrial muy popular, eficiente en conversión alimenticia y alta postura de huevos marrones.",True,2025-05-28 15:20:29.313,b'\x00\x00\x00\x00\x00\x00\xc3['
+7,Hy-Line Brown,Gallina ponedora internacionalmente reconocida. Alta producción y excelente calidad de cáscara.,True,2025-05-28 15:20:29.313,b'\x00\x00\x00\x00\x00\x00\xc3]'
+8,Rhode Island Red,"Raza dual (carne y huevo), resistente y adaptable. Muy usada en zonas rurales.",True,2025-05-28 15:20:29.313,b'\x00\x00\x00\x00\x00\x00\xc3_'
+9,Plymouth Rock,"Raza tradicional dual, resistente y de crecimiento moderado. Ideal para pequeños productores.",True,2025-05-28 15:20:29.313,b'\x00\x00\x00\x00\x00\x00\xc3a'
+10,Gallina Criolla Peruana,Raza local adaptada a zonas rurales y de altura. Buena resistencia a enfermedades y buen sabor en carne.,True,2025-05-28 15:20:29.313,b'\x00\x00\x00\x00\x00\x00\xc3c'

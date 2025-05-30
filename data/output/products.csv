@@ -1,0 +1,31 @@
+productId,productCode,description,creationDate,created_at,rv,status
+1,CBB-001,"Pollo entero congelado: Pollo completo eviscerado, ideal para el consumo familiar.",2023-01-10,2025-05-29 14:41:03.287,b'\x00\x00\x00\x00\x00\x00\xe2\x91',True
+2,CBB-002,"Pechuga deshuesada: Pechuga de pollo sin hueso ni piel, alto rendimiento en carne blanca.",2023-01-10,2025-05-29 14:41:03.287,b'\x00\x00\x00\x00\x00\x00\xe2\x93',True
+3,CBB-003,Pierna y muslo: Porción con hueso ideal para guisos y frituras.,2023-01-10,2025-05-29 14:41:03.287,b'\x00\x00\x00\x00\x00\x00\xe2\x95',True
+4,RSS-001,Pollo entero fresco: Ideal para consumo directo en mercados locales.,2023-01-10,2025-05-29 14:41:29.800,b'\x00\x00\x00\x00\x00\x00\xe2\x97',True
+5,RSS-002,"Ala de pollo: Alas congeladas, perfectas para asar o freír.",2023-01-10,2025-05-29 14:41:29.800,b'\x00\x00\x00\x00\x00\x00\xe2\x99',True
+6,RSS-003,Carne molida de pollo: Molida de carne de ave para hamburguesas y otros preparados.,2023-01-10,2025-05-29 14:41:29.800,b'\x00\x00\x00\x00\x00\x00\xe2\x9b',True
+7,HBF-001,"Pollo trozado: Porciones mixtas de pollo (pechuga, muslo, alas).",2023-01-10,2025-05-29 14:41:40.187,b'\x00\x00\x00\x00\x00\x00\xe2\x9d',True
+8,HBF-002,"Pechuga con piel: Pechuga con piel, preferida para horno.",2023-01-10,2025-05-29 14:41:40.187,b'\x00\x00\x00\x00\x00\x00\xe2\x9f',True
+9,HBF-003,Filete de muslo: Muslo deshuesado y sin piel.,2023-01-10,2025-05-29 14:41:40.187,b'\x00\x00\x00\x00\x00\x00\xe2\xa1',True
+10,HBJ-001,"Pollo campero: Ave de crecimiento moderado, sabor tradicional.",2023-01-10,2025-05-29 14:41:54.880,b'\x00\x00\x00\x00\x00\x00\xe2\xa3',True
+11,HBJ-002,Pollo eviscerado alternativo: Ideal para venta en mercados rurales.,2023-01-10,2025-05-29 14:41:54.880,b'\x00\x00\x00\x00\x00\x00\xe2\xa5',True
+12,HBJ-003,Cortes especiales (pechuga & muslo): Cortes seleccionados para mercados gourmet.,2023-01-10,2025-05-29 14:41:54.880,b'\x00\x00\x00\x00\x00\x00\xe2\xa7',True
+13,HBJ-004,"Pollo campero: Ave de crecimiento moderado, sabor tradicional.",2023-01-10,2025-05-29 14:46:22.343,b'\x00\x00\x00\x00\x00\x01!\x11',True
+14,HBJ-005,Pollo eviscerado alternativo: Ideal para venta en mercados rurales.,2023-01-10,2025-05-29 14:46:22.343,b'\x00\x00\x00\x00\x00\x01!\x12',True
+15,HBJ-006,Cortes especiales (pechuga & muslo): Cortes seleccionados para mercados gourmet.,2023-01-10,2025-05-29 14:46:22.343,b'\x00\x00\x00\x00\x00\x01!\x13',True
+16,ISB-001,"Huevo marrón grande: Producido por gallinas ISA Brown, excelente calidad y tamaño uniforme.",2023-01-10,2025-05-29 14:46:26.433,b'\x00\x00\x00\x00\x00\x00\xe2\xaf',True
+17,ISB-002,"Huevo fresco seleccionado: Alta frecuencia de postura, ideal para consumo doméstico.",2023-01-10,2025-05-29 14:46:26.433,b'\x00\x00\x00\x00\x00\x00\xe2\xb1',True
+18,ISB-003,Gallina ponedora comercial: Lista para iniciar producción en galpones.,2023-01-10,2025-05-29 14:46:26.433,b'\x00\x00\x00\x00\x00\x00\xe2\xb3',True
+19,LHB-001,"Huevo marrón mediano: Producido por Lohmann Brown, ideal para supermercados.",2023-01-10,2025-05-29 14:46:29.750,b'\x00\x00\x00\x00\x00\x00\xe2\xb5',True
+20,LHB-002,Pack 12 huevos frescos: Alta conversión alimenticia con huevos de excelente cáscara.,2023-01-10,2025-05-29 14:46:29.750,b'\x00\x00\x00\x00\x00\x00\xe2\xb7',True
+21,LHB-003,Gallina de postura en edad productiva: Lista para ciclos de alta eficiencia.,2023-01-10,2025-05-29 14:46:29.750,b'\x00\x00\x00\x00\x00\x00\xe2\xb9',True
+22,HLB-001,Huevo premium Hy-Line: Excelente calidad de cáscara y sabor.,2023-01-10,2025-05-29 14:46:33.703,b'\x00\x00\x00\x00\x00\x00\xe2\xbb',True
+23,HLB-002,Docena de huevo marrón extra: Producido por ponedoras Hy-Line en galpones de control ambiental.,2023-01-10,2025-05-29 14:46:33.703,b'\x00\x00\x00\x00\x00\x00\xe2\xbd',True
+24,HLB-003,Gallina Hy-Line Brown: Adaptada a producción intensiva y semilibre.,2023-01-10,2025-05-29 14:46:33.703,b'\x00\x00\x00\x00\x00\x00\xe2\xbf',True
+25,RID-001,"Huevo marrón criollo: Producido por Rhode Island Red, ideal para zonas rurales.",2023-01-10,2025-05-29 14:46:43.450,b'\x00\x00\x00\x00\x00\x00\xe2\xc1',True
+26,RID-002,Pollo campero mixto: Apto para carne y postura moderada.,2023-01-10,2025-05-29 14:46:43.450,b'\x00\x00\x00\x00\x00\x00\xe2\xc3',True
+27,PLR-001,Pollo para crianza familiar: Resistente y de crecimiento controlado.,2023-01-10,2025-05-29 14:46:47.237,b'\x00\x00\x00\x00\x00\x00\xe2\xc5',True
+28,PLR-002,Huevos marrones tradicionales: Calidad rústica con buena adaptabilidad.,2023-01-10,2025-05-29 14:46:47.237,b'\x00\x00\x00\x00\x00\x00\xe2\xc7',True
+29,GCP-001,Pollo criollo vivo: Ideal para venta en mercados tradicionales.,2023-01-10,2025-05-29 14:46:50.147,b'\x00\x00\x00\x00\x00\x00\xe2\xc9',True
+30,GCP-002,"Huevo criollo fresco: Producción de gallina peruana, sabor y textura únicos.",2023-01-10,2025-05-29 14:46:50.147,b'\x00\x00\x00\x00\x00\x00\xe2\xcb',True
